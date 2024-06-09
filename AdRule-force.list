@@ -1,4 +1,6 @@
 # Update > 2023/12/23
+# NobyDa大佬去广告 -默认关闭，自行手动启用！
+#https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,comet.yahoo.com,REJECT
