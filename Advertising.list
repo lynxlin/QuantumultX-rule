@@ -1,4 +1,5 @@
-# Advertising
+# Advertising 去广告
+#https://raw.githubusercontent.com/w37fhy/QuantumultX/master/Rules/Advertising.list
 # > General
 HOST-KEYWORD,adservice,reject
 
