@@ -1,6 +1,6 @@
 # AppleSystemOTA.list
 # https://whatshub.top/rule/SystemOTA.list
-HOST,appldnld-cdn.apple.com.akadns.net
+HOST,appldnld-cdn.apple.com.akadns.net,AppleSystemOTA
 HOST,appldnld-cdn.origin-apple.com.akadns.net
 HOST,appldnld.apple.com.mwcname.com
 HOST,configuration.apple.com
