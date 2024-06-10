@@ -1,6 +1,6 @@
 # Apple.list
 # https://whatshub.top/rule/Apple.list
-HOST-KEYWORD,apple-support.akadns.net
+HOST-KEYWORD,apple-support.akadns.net,Apple
 HOST-KEYWORD,apple.com.akadns.net
 HOST-KEYWORD,apple.com.edgekey.net
 HOST-KEYWORD,buy.itunes.apple.com
